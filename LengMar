@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Ejercicio texto-01</title>
+        <meta charset="UTF-8">
+        <meta name="author" content="Bego Gutierrez">
+        <meta name="description" content="Ejercicios HTML">
+        <meta name="keywords" content="Ejercicio texto-01">
+    </head>
+    <body>
+        <h1>Este es el encabezado 1</h1>
+        <h2>Este es el encabezado 2</h2>
+        <h3>Este es el encabezado 3</h3>
+        <h4>Este es el encabezado 4</h4>
+        <h5>Este es el encabezado 5</h5>
+        <h6>Este es el encabezado 6</h6>
+    </body>
+</html>
